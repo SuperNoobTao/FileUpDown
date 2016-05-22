@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://E:/jar/spring-webmvc/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-aop-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-beans-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-context-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-core-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-expression-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-web-4.2.5.RELEASE.jar!/" />
+      <root url="jar://E:/jar/spring-webmvc/spring-webmvc-4.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
